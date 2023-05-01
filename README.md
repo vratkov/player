@@ -1,4 +1,4 @@
-# player
+# Player
 
 A new Flutter project.
 
