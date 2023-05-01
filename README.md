@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Info
 
-Mini-assignment nubmer 3.
+Mini-assignment number 3.
 
 
 
